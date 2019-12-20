@@ -1,0 +1,11 @@
+c:\users\a.haddad\source\repos\NewIdeaAppAPI\NewIdeaAppAPI\bin\Debug\netcoreapp2.0\NewIdeaAppAPI.deps.json
+c:\users\a.haddad\source\repos\NewIdeaAppAPI\NewIdeaAppAPI\bin\Debug\netcoreapp2.0\NewIdeaAppAPI.runtimeconfig.json
+c:\users\a.haddad\source\repos\NewIdeaAppAPI\NewIdeaAppAPI\bin\Debug\netcoreapp2.0\NewIdeaAppAPI.runtimeconfig.dev.json
+c:\users\a.haddad\source\repos\NewIdeaAppAPI\NewIdeaAppAPI\bin\Debug\netcoreapp2.0\NewIdeaAppAPI.dll
+c:\users\a.haddad\source\repos\NewIdeaAppAPI\NewIdeaAppAPI\obj\Debug\netcoreapp2.0\NewIdeaAppAPI.csprojResolveAssemblyReference.cache
+c:\users\a.haddad\source\repos\NewIdeaAppAPI\NewIdeaAppAPI\obj\Debug\netcoreapp2.0\NewIdeaAppAPI.csproj.CoreCompileInputs.cache
+c:\users\a.haddad\source\repos\NewIdeaAppAPI\NewIdeaAppAPI\obj\Debug\netcoreapp2.0\NewIdeaAppAPI.AssemblyInfoInputs.cache
+c:\users\a.haddad\source\repos\NewIdeaAppAPI\NewIdeaAppAPI\obj\Debug\netcoreapp2.0\NewIdeaAppAPI.AssemblyInfo.cs
+c:\users\a.haddad\source\repos\NewIdeaAppAPI\NewIdeaAppAPI\bin\Debug\netcoreapp2.0\NewIdeaAppAPI.pdb
+c:\users\a.haddad\source\repos\NewIdeaAppAPI\NewIdeaAppAPI\obj\Debug\netcoreapp2.0\NewIdeaAppAPI.dll
+c:\users\a.haddad\source\repos\NewIdeaAppAPI\NewIdeaAppAPI\obj\Debug\netcoreapp2.0\NewIdeaAppAPI.pdb
